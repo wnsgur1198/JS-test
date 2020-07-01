@@ -28,8 +28,6 @@ HTML, CSS, Javascript
 
 김준혁 – wnsgur1198@naver.com
 
-[https://github.com/wnsgur1198/Korean_history-TOEIC-reminder]
-
 ## Contributing
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
